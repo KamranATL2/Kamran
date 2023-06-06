@@ -1,0 +1,11 @@
+add .gitignore  file (yalniz 1 defe)
+git init (yalniz 1 defe)
+git remote add <<url>> (yalniz 1 defe)
+git add .
+git commit -m"your message here"
+git push origin main\master
+git status (istediyiniz qeder)
+
+git clone <<url>> (yalniz 1 defe)
+git pull (istediyiniz qeder)
+
