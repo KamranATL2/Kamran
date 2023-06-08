@@ -1,4 +1,4 @@
-package Lesson01_p4;
+package Lesson01.Lesson01_p4;
 
 public class VariableApp {
     public static void mainV1(String[] args) {

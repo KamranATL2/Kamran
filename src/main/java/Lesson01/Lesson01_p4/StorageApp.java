@@ -1,4 +1,4 @@
-package Lesson01_p4;
+package Lesson01.Lesson01_p4;
 
 public class StorageApp {
     public static void main(String[] args) {
